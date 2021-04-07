@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning web development and cybersecurity...⚡
+🌱 I’m currently learning web development.
 
-I hope you still code with love. <3
 
 <!--
 **GabieSB/GabieSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
